@@ -3,7 +3,7 @@
 
 
 ## Utlity
-PcmanFM -
+PcmanFM or Nemo
 p7zip
 SysMonTask  https://github.com/KrispyCamel4u/SysMonTask
 IceWM 
