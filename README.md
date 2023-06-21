@@ -1,9 +1,14 @@
-# Linux personal favorite software For Minimalist
+### Linux personal favorite software For Minimalist
 
+
+
+## Utlity
 PcmanFM -
 p7zip
 SysMonTask  https://github.com/KrispyCamel4u/SysMonTask
 IceWM 
+PavuControl
+lxAppereance
 
 
 
